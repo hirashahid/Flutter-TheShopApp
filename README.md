@@ -1,16 +1,43 @@
-# flutter_shop_app2
+<h1 align="center">Flutter-TheShopApp</h1>
+<a href="#">
+  <div align="center" >
+    <img src="ss.png" width='400' height = '500'/>
+  </div>
+</a>
 
-A new Flutter project.
+## <h2 align = "center"> [Tap to see the video of this app](https://hirashahid.thecloudsoft.com/flutter-theshopapp/)</h2>
 
-## Getting Started
+## What I have learnt:
+- [x] A user need to sign up for using this app 
+- [x] Once he is signed in, he can see all the products which are available and added by every user.
+- [x] A user can add the product, edits and delete the product. 
+- [x] User can also order the product and can see all the products available (added by all users). 
+- [x] At the end, A user can also log out.
 
-This project is a starting point for a Flutter application.
+## What This App does:
+- [x] State Management(Providers)
+- [x] Storing data on server(firebase)
+- [x] User authentication(tokens)
+- [x] Animations 
+- [x] Working with users input and forms 
 
-A few resources to get you started if this is your first Flutter project:
+## How To Run
+```
+git clone https://github.com/hirashahid/Flutter-TheShopApp
+cd Flutter-TheShopApp
+flutter run
+```
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Author
+You can get in touch with me on my LinkedIn Profile:
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#### Hira Shahid
+[![LinkedIn Link](https://img.shields.io/badge/Connect-thehirashahid-blue.svg?logo=linkedin&longCache=true&style=social&label=Connect
+)](https://www.linkedin.com/in/thehirashahid)
+
+You can also follow my GitHub Profile to stay updated about my latest projects: [![GitHub Follow](https://img.shields.io/badge/Connect-hirashahid-blue.svg?logo=Github&longCache=true&style=social&label=Follow)](https://github.com/hirashahid)
+
+If you liked the repo then kindly support it by giving it a star ⭐!
+
+## LICENSE
+- MIT (2021)
